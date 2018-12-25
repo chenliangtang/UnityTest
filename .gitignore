@@ -1,3 +1,6 @@
 #ignore these files
 Library/*
 Temp/*
+UnityTest.Editor.csproj
+UnityTest.sln
+.vs/*
